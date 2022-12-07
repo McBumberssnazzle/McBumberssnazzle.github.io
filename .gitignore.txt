@@ -1,0 +1,23 @@
+# Created by httpswww.toptal.comdevelopersgitignoreapivisualstudiocode
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode
+!.vscodesettings.json
+!.vscodetasks.json
+!.vscodelaunch.json
+!.vscodeextensions.json
+!.vscode.code-snippets
+
+# Local History for Visual Studio Code
+.history
+
+# Built Visual Studio Code Extensions
+.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of httpswww.toptal.comdevelopersgitignoreapivisualstudiocode
